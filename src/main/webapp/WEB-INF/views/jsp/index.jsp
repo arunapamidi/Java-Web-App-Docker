@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2> Hi Aki and Nihal !!!! you are in Developement Server !!!!!.</h2>
+			<h2> Hi Nani, Aki and Nihal !!!! you are in Developement Server !!!!!.</h2>
 			<h3> Happy Testing !!!!!!!!!!!!</h3>
 		</div>	
 	</div>
